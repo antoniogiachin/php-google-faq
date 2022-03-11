@@ -89,6 +89,11 @@ main .faq{
     line-height: 2em;
 }
 
-main .faq h1, main .faq p {
+main .faq h2, main .faq p {
     margin: 30px 0px;
+}
+
+main .faq p{
+    padding: 0px 2px;
+    color: #222;
 }

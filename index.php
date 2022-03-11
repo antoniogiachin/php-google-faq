@@ -64,7 +64,7 @@
         <div class="container">
 
             <div class="faq">
-                <h1>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste, voluptates! Deserunt culpa fugiat ad? Alias, quas minima numquam laudantium nesciunt, eius et repellendus deleniti ad incidunt consequuntur ipsum ipsam similique?</h1>
+                <h2>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste, voluptates! Deserunt culpa fugiat ad? Alias, quas minima numquam laudantium nesciunt, eius et repellendus deleniti ad incidunt consequuntur ipsum ipsam similique?</h2>
 
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem quam iure distinctio sint ipsa fuga repudiandae esse, corporis, similique iste ratione recusandae quod, adipisci nobis! Cum ipsum reiciendis veniam officiis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid odit voluptatum laudantium neque perspiciatis enim tempore earum, repellat voluptas inventore autem dolorem aut. Quasi earum alias, eos optio molestiae deleniti!
                 Possimus expedita dolores repudiandae veniam, nostrum laudantium excepturi sint praesentium. Consequatur officiis sit totam, nisi facere incidunt dolorem reiciendis voluptatem aut porro, dicta ad dolores quos quis quia nam hic?
@@ -72,7 +72,7 @@
             </div>
 
             <div class="faq">
-                <h1>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste, voluptates! Deserunt culpa fugiat ad? Alias, quas minima numquam laudantium nesciunt, eius et repellendus deleniti ad incidunt consequuntur ipsum ipsam similique?</h1>
+                <h2>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste, voluptates! Deserunt culpa fugiat ad? Alias, quas minima numquam laudantium nesciunt, eius et repellendus deleniti ad incidunt consequuntur ipsum ipsam similique?</h2>
 
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem quam iure distinctio sint ipsa fuga repudiandae esse, corporis, similique iste ratione recusandae quod, adipisci nobis! Cum ipsum reiciendis veniam officiis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid odit voluptatum laudantium neque perspiciatis enim tempore earum, repellat voluptas inventore autem dolorem aut. Quasi earum alias, eos optio molestiae deleniti!
                 Possimus expedita dolores repudiandae veniam, nostrum laudantium excepturi sint praesentium. Consequatur officiis sit totam, nisi facere incidunt dolorem reiciendis voluptatem aut porro, dicta ad dolores quos quis quia nam hic?
@@ -80,7 +80,7 @@
             </div>
 
             <div class="faq">
-                <h1>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste, voluptates! Deserunt culpa fugiat ad? Alias, quas minima numquam laudantium nesciunt, eius et repellendus deleniti ad incidunt consequuntur ipsum ipsam similique?</h1>
+                <h2>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste, voluptates! Deserunt culpa fugiat ad? Alias, quas minima numquam laudantium nesciunt, eius et repellendus deleniti ad incidunt consequuntur ipsum ipsam similique?</h2>
 
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem quam iure distinctio sint ipsa fuga repudiandae esse, corporis, similique iste ratione recusandae quod, adipisci nobis! Cum ipsum reiciendis veniam officiis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid odit voluptatum laudantium neque perspiciatis enim tempore earum, repellat voluptas inventore autem dolorem aut. Quasi earum alias, eos optio molestiae deleniti!
                 Possimus expedita dolores repudiandae veniam, nostrum laudantium excepturi sint praesentium. Consequatur officiis sit totam, nisi facere incidunt dolorem reiciendis voluptatem aut porro, dicta ad dolores quos quis quia nam hic?
