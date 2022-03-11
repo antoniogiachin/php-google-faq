@@ -87,6 +87,7 @@ main .faq{
     font-size: 0.8em;
     padding: 0px 20px;
     line-height: 2em;
+    color: #222;
 }
 
 main .faq h2, main .faq p {
@@ -95,5 +96,15 @@ main .faq h2, main .faq p {
 
 main .faq p{
     padding: 0px 2px;
-    color: #222;
+}
+
+main .faq ol{
+    padding-left: 30px;
+    margin-bottom: 20px;
+}
+main .faq ol ul{
+    list-style-type: square;
+    padding-left: 50px;
+    margin: 20px 0px;
+    line-height: 40px;
 }
